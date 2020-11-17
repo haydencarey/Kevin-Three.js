@@ -1,0 +1,13 @@
+body {
+    margin: 0;
+}
+
+canvas {
+    display: block;
+}
+
+.buttons {
+    position: fixed;
+    top: 20px;
+    left: 20px;
+}
